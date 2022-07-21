@@ -36,7 +36,7 @@ Explanation: The sum of -1 and 0 is -1. Therefore, index1 = 1, index2 = 2. We re
 
 
 def twoSum(self, numbers, target):
-    start = 0;
+    start = 0
     end = len(numbers) - 1
     while start < end:
         potential_match = numbers[start] + numbers[end]
