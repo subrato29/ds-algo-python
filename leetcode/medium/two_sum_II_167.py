@@ -31,7 +31,7 @@ Explanation: The sum of 2 and 4 is 6. Therefore index1 = 1, index2 = 3. We retur
 Example 3:
 Input: numbers = [-1,0], target = -1
 Output: [1,2]
-Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
+Explanation: The sum of -1 and 0 is -1. Therefore, index1 = 1, index2 = 2. We return [1, 2].
 """
 
 
