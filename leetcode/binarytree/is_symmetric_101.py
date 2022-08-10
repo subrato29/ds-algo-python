@@ -8,6 +8,8 @@ Example 2:
 Input: root = [1,2,2,null,3,null,3]
 Output: false
 """
+
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
